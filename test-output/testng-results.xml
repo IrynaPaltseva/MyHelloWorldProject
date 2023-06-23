@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-16T12:15:08 EDT" name="Default suite" finished-at="2023-06-16T12:15:08 EDT" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2023-06-16T12:15:08 EDT" name="Default test" finished-at="2023-06-16T12:15:08 EDT" duration-ms="53">
+      <class name="myTestSeleniumPackage.DataProviderExampleClass">
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:myTestSeleniumPackage.DataProviderExampleClass@71d44a3]" started-at="2023-06-16T12:15:08 EDT" name="sampleTest" data-provider="dataProvider1" finished-at="2023-06-16T12:15:08 EDT" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vinnie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:myTestSeleniumPackage.DataProviderExampleClass@71d44a3]" started-at="2023-06-16T12:15:08 EDT" name="sampleTest" data-provider="dataProvider1" finished-at="2023-06-16T12:15:08 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[d1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[v1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:myTestSeleniumPackage.DataProviderExampleClass@71d44a3]" started-at="2023-06-16T12:15:08 EDT" name="sampleTest" data-provider="dataProvider1" finished-at="2023-06-16T12:15:08 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[d2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[v2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- myTestSeleniumPackage.DataProviderExampleClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
