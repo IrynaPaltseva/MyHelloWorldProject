@@ -30,6 +30,8 @@ public class Test {
 	
  WebElement translateLink = driver.findElement(By.linkText("Français"));
  translateLink.click();
+  
+ System.out.println("Iryna");
   // Closing the browser
   //driver.quit();
  }
